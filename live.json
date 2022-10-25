@@ -68,7 +68,7 @@
     "LeagueImage": "https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
@@ -79,10 +79,10 @@
     "Hd1Name": "CN FHD",
     "Hd2Link": "https://yypull.gdsth.com/live/stream-4569315_ld.m3u8?auth_key=1666744578-0-0-f212a7bd0cd200cbd8db1cb077d64f15",
     "Hd2Name": "CN SD",
-    "Hd3Link": "0",
-    "Hd3Name": "HD",
-    "Hd4Link": "0",
-    "Hd4Name": "HD",
+    "Hd3Link": "https://pullalilive.livnvess.com/live/stream-144861.m3u8?auth_key=1666745368-0-0-2ba7345cf46e38a3303f7f441af4d700",
+    "Hd3Name": "VN HD",
+    "Hd4Link": "https://pullalilive.livnvess.com/live/stream-144861_ld.m3u8?auth_key=1666745368-0-0-196744186e1f5f16728efc37885e553e",
+    "Hd4Name": "VN SD",
     "Hd5Link": "0",
     "Hd5Name": "HD",
     "Hd6Link": "0",
@@ -92,7 +92,7 @@
     "LeagueImage": "https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
  {
@@ -116,7 +116,7 @@
     "LeagueImage": "https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
   {
