@@ -31,10 +31,10 @@
     "Hd1Name": "CN FHD",
     "Hd2Link": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1666736898-0-0-045204fffcb6738b6ecbd8d54919b942",
     "Hd2Name": "CN SD",
-    "Hd3Link": "0",
-    "Hd3Name": "HD",
-    "Hd4Link": "0",
-    "Hd4Name": "HD",
+    "Hd3Link": "https://pullalilive.livnvess.com/live/stream-101641.m3u8?auth_key=1666737688-0-0-dab2e801b8be6f4b525d94cba8fe4456",
+    "Hd3Name": "VN HD",
+    "Hd4Link": "https://pullalilive.livnvess.com/live/stream-101641_ld.m3u8?auth_key=1666737688-0-0-d19fd3fcff7eb6bfede67f348bb19ce7",
+    "Hd4Name": "VN SD",
     "Hd5Link": "0",
     "Hd5Name": "HD",
     "Hd6Link": "0",
@@ -44,8 +44,8 @@
     "LeagueImage": "https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
-    "Time": "11:15 PM"
+    "LiveUpcoming": "Live",
+    "Time": "11:15 PM "
   },
   {
     "AwayImage": "https://i.ibb.co/YpGpV2N/download-57.png",
