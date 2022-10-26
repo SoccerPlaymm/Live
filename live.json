@@ -99,10 +99,10 @@
     "AwayImage": "https://i.ibb.co/51zs1r9/download-63.png",
     "AwayName": "Leverkusen",
     "Date": "October 27",
-    "Hd1Link": "0",
-    "Hd1Name": "HD",
-    "Hd2Link": "0",
-    "Hd2Name": "HD",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-321213.m3u8?auth_key=1666830738-0-0-cc0d484ecbe12585d1efc4351c1d4ab7",
+    "Hd1Name": "HD1",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-321213.m3u8?auth_key=1666831938-0-0-f5848d16b410e718456a0e13b8e9c7fe",
+    "Hd2Name": "HD2",
     "Hd3Link": "0",
     "Hd3Name": "HD",
     "Hd4Link": "0",
@@ -116,7 +116,7 @@
     "LeagueImage": "https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
  {
