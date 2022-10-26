@@ -171,10 +171,10 @@
     "AwayImage": "https://i.ibb.co/zNhmF1y/download-70.png",
     "AwayName": "Marseille",
     "Date": "October 27",
-    "Hd1Link": "0",
-    "Hd1Name": "HD",
-    "Hd2Link": "0",
-    "Hd2Name": "HD",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1666831518-0-0-8cd28112bdc1271a23cec37079512f68",
+    "Hd1Name": "HD1",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-309440.m3u8?auth_key=1666831398-0-0-9f7ed486908fb9e94800de29e9bac24d",
+    "Hd2Name": "HD2",
     "Hd3Link": "0",
     "Hd3Name": "HD",
     "Hd4Link": "0",
@@ -188,7 +188,7 @@
     "LeagueImage": "https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 
