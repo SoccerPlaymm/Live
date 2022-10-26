@@ -147,10 +147,10 @@
     "AwayImage": "https://i.ibb.co/D46m1WD/download-65.png",
     "AwayName": "Bayern",
     "Date": "October 27",
-    "Hd1Link": "0",
-    "Hd1Name": "HD",
-    "Hd2Link": "0",
-    "Hd2Name": "HD",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-330076.m3u8?auth_key=1666831278-0-0-7634bdd222c585da0acd0ac33cc85729",
+    "Hd1Name": "HD1",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1666831278-0-0-34d8a097eef4253ba737f04aef000de5",
+    "Hd2Name": "HD2",
     "Hd3Link": "0",
     "Hd3Name": "HD",
     "Hd4Link": "0",
@@ -164,7 +164,7 @@
     "LeagueImage": "https://pnggrid.com/wp-content/uploads/2021/04/UEFA-Champions-League-Logo-PNG-White-1024x939.png",
     "LeagueName": "Champions League",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
  {
