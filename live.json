@@ -247,9 +247,9 @@
     "Hd1Name": "CN FHD",
     "Hd2Link": "https://yypull.gdsth.com/live/stream-553612_ld.m3u8?auth_key=1667076258-0-0-5f1e135f82e79ea37b06afe9f8cb2e17",
     "Hd2Name": "CN SD",
-    "Hd3Link": "0",
+    "Hd3Link": "https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1667076388-0-0-fbd8855ad5ecdc47a1bd65e02f9281eb",
     "Hd3Name": "VN HD",
-    "Hd4Link": "0",
+    "Hd4Link": "https://pullalilive.livnvess.com/live/stream-121256_ld.m3u8?auth_key=1667076388-0-0-a063b2d246ed67cbda5db69310bef5f8",
     "Hd4Name": "VN SD",
     "Hd5Link": "0",
     "Hd5Name": "ENG",
@@ -260,7 +260,7 @@
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:30 PM"
   },
  {
