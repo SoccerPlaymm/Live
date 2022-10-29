@@ -151,9 +151,9 @@
     "Hd1Name": "CN FHD",
     "Hd2Link": "https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1667079918-0-0-8a691484affbbf4c2e433df164cff075",
     "Hd2Name": "CN SD",
-    "Hd3Link": "0",
+    "Hd3Link": "https://pullalilive.livnvess.com/live/stream-160430.m3u8?auth_key=1667080048-0-0-741b2b4fbac681ea7e8bc9004468eb55",
     "Hd3Name": "VN HD",
-    "Hd4Link": "0",
+    "Hd4Link": "https://pullalilive.livnvess.com/live/stream-160430_ld.m3u8?auth_key=1667080048-0-0-746d40be120fa9033765a2c49bafb878",
     "Hd4Name": "VN SD",
     "Hd5Link": "0",
     "Hd5Name": "ENG",
@@ -164,7 +164,7 @@
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "10:30 PM"
   },
  {
