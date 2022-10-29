@@ -55,9 +55,9 @@
     "Hd1Name": "CN FHD",
     "Hd2Link": "https://yypull.gdsth.com/live/stream-482183_ld.m3u8?auth_key=1667090478-0-0-bcf399170153029320cec901e95ed8fe",
     "Hd2Name": "CN SD",
-    "Hd3Link": "0",
+    "Hd3Link": "https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1667090968-0-0-a593c8a05d4fbab7338644e8e1108180",
     "Hd3Name": "VN HD",
-    "Hd4Link": "0",
+    "Hd4Link": "https://pullalilive.livnvess.com/live/stream-121256_ld.m3u8?auth_key=1667090968-0-0-28aeab67b9c8eef8c524888df56fec58",
     "Hd4Name": "VN SD",
     "Hd5Link": "0",
     "Hd5Name": "ENG",
@@ -68,7 +68,7 @@
     "LeagueImage": "https://www.ilike-movie.com/fw-img/7657c838a66d3ca33cccabbc1526f853.png",
     "LeagueName": "Laliga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   },
  {
@@ -79,9 +79,9 @@
     "Hd1Name": "CN FHD",
     "Hd2Link": "https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1667090418-0-0-4afcc85d95dae876f54c02e658f9b29f",
     "Hd2Name": "CN SD",
-    "Hd3Link": "0",
+    "Hd3Link": "https://pullalilive.livnvess.com/live/stream-121272.m3u8?auth_key=1667090968-0-0-ea6c733f2704de4da9c9b4db18c6167b",
     "Hd3Name": "VN HD",
-    "Hd4Link": "0",
+    "Hd4Link": "https://pullalilive.livnvess.com/live/stream-121272_ld.m3u8?auth_key=1667090968-0-0-3ef9a7ac7748e5fdcd258c4d38706ae2",
     "Hd4Name": "VN SD",
     "Hd5Link": "0",
     "Hd5Name": "ENG",
@@ -92,7 +92,7 @@
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "1:30 AM"
   }
 ]
