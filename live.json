@@ -201,9 +201,9 @@
     "Hd1Name": "CN FHD",
     "Hd2Link": "https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1667160979-0-0-611e987fe43b51f7412b282df7d42faa",
     "Hd2Name": "CN SD",
-    "Hd3Link": "0",
+    "Hd3Link": "https://pullalilive.livnvess.com/live/stream-104776.m3u8?auth_key=1667161108-0-0-502a2af97a481ff4a96606dc05ed43ab",
     "Hd3Name": "VN HD",
-    "Hd4Link": "0",
+    "Hd4Link": "https://pullalilive.livnvess.com/live/stream-104776_ld.m3u8?auth_key=1667161108-0-0-db5ab94b5b76afce116bd8195d26741e",
     "Hd4Name": "VN SD",
     "Hd5Link": "0",
     "Hd5Name": "ENG",
@@ -214,7 +214,7 @@
     "LeagueImage": "https://www.fifplay.com/img/public/bundesliga-logo.png",
     "LeagueName": "Bundesliga",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "9:00 PM"
   },
  {
