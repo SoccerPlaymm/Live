@@ -83,10 +83,10 @@
     "Hd3Name": "VN HD",
     "Hd4Link": "https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1667158288-0-0-441b5f96ba4bb6881006ad8aca5d61b8",
     "Hd4Name": "VN SD",
-    "Hd5Link": "0",
-    "Hd5Name": "ENG",
-    "Hd6Link": "0",
-    "Hd6Name": "ENG",
+    "Hd5Link": "http://lopmse.azureedge.net/scripts/NTc0MA==/1080p.m3u8",
+    "Hd5Name": "ENG1",
+    "Hd6Link": "http://beem.azureedge.net/scripts/NTc0MA==/1080p.m3u8",
+    "Hd6Name": "ENG2",
     "HomeImage": "https://i.ibb.co/bN749H2/download-12.png",
     "HomeName": "Arsenal",
     "LeagueImage": "https://www.ilike-movie.com/fw-img/56110b057a5357149645b13a0506f1d4.png",
@@ -117,7 +117,7 @@
     "LeagueImage": "https://assets.website-files.com/5ee732bebd9839b494ff27cd/5f0c79ace051d71f875c2015_Serie%20a.png",
     "LeagueName": "Serie A",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
  {
@@ -189,7 +189,7 @@
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
  {
@@ -213,7 +213,7 @@
     "LeagueImage": "https://www.ilike-movie.com/fw-img/0b222ee18016b5ad1678262db6487812.png",
     "LeagueName": "Ligue 1",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "8:30 PM"
   },
  {
