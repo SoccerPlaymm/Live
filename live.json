@@ -249,11 +249,11 @@
 
     "Date": "November 02",
 
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1667353159-0-0-20cd0556f78d594069b51b92d806503c",
 
     "Hd1Name": "CN FHD",
 
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-552369.m3u8?auth_key=1667353159-0-0-20cd0556f78d594069b51b92d806503c",
 
     "Hd2Name": "CN SD",
 
@@ -265,11 +265,11 @@
 
     "Hd4Name": "VN SD",
 
-    "Hd5Link": "0",
+    "Hd5Link": "http://loppese.azureedge.net/scripts/NTk3Mw==/1080p.m3u8",
 
     "Hd5Name": "ENG",
 
-    "Hd6Link": "0",
+    "Hd6Link": "http://loppese.azureedge.net/scripts/NTk3Mw==/1080p.m3u8",
 
     "Hd6Name": "ENG",
 
@@ -283,7 +283,7 @@
 
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
 
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
 
     "Time": "2:30 AM"
 
