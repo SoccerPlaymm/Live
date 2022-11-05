@@ -443,11 +443,11 @@
 
     "Hd1Name": "CN FHD",
 
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1667682020-0-0-f007ef73a5c4e20ec2642ef1385623ba",
 
     "Hd2Name": "CN SD",
 
-    "Hd3Link": "0",
+    "Hd3Link": "https://yypull.gdsth.com/live/stream-3045619_ld.m3u8?auth_key=1667682020-0-0-12b5bb9097c1f7460c675c2ae9568ade",
 
     "Hd3Name": "VN HD",
 
@@ -473,7 +473,7 @@
 
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
 
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
 
     "Time": "9:45 PM"
 
