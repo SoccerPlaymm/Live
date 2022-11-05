@@ -441,19 +441,19 @@
 
     "Date": "November 05",
 
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-231411.m3u8?auth_key=1667684180-0-0-23b71c0f47411568ed698a904850314c",
 
     "Hd1Name": "CN FHD",
 
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-231411_ld.m3u8?auth_key=1667684180-0-0-f25cb014f096a5d3378c3a338aea1293",
 
     "Hd2Name": "CN SD",
 
-    "Hd3Link": "0",
+    "Hd3Link": "https://pullalilive.livnvess.com/live/stream-109053.m3u8?auth_key=1667684309-0-0-461c72b1bbe1be71f71193a9d62551be",
 
     "Hd3Name": "VN HD",
 
-    "Hd4Link": "0",
+    "Hd4Link": "https://pullalilive.livnvess.com/live/stream-109053_ld.m3u8?auth_key=1667684309-0-0-47de517713866df61184bb1b1eb564af",
 
     "Hd4Name": "VN SD",
 
@@ -475,7 +475,7 @@
 
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
 
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
 
     "Time": "10:30 PM"
 
