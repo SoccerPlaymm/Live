@@ -248,11 +248,11 @@
 
     "Date": "November 06",
 
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1667698999-0-0-5ec6e99275a93cb11a8ba999ce88e48b",
 
     "Hd1Name": "CN FHD",
 
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1667698999-0-0-c6d25a02171c8d5240b617b49b06d12b",
 
     "Hd2Name": "CN SD",
 
@@ -282,7 +282,7 @@
 
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
 
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
 
     "Time": "2:15 AM"
 
