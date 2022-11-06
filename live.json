@@ -311,13 +311,13 @@
 
     "Hd4Name": "VN SD",
 
-    "Hd5Link": "0",
+    "Hd5Link": "https://cdn.googlecdnforstreaming.live/dbf789/tpf1_480/chunks.m3u8",
 
-    "Hd5Name": "ENG",
+    "Hd5Name": "Thai",
 
-    "Hd6Link": "0",
+    "Hd6Link": "http://92.119.88.58:8080/270/index.m3u8",
 
-    "Hd6Name": "ENG",
+    "Hd6Name": "ENG(No Voice)",
 
     "HomeImage": "https://i.ibb.co/wK5L6HX/download-8.png",
 
