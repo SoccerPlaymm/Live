@@ -7,9 +7,9 @@
     "Hd1Name": "CN FHD",
     "Hd2Link": "0",
     "Hd2Name": "CN SD",
-    "Hd3Link": "0",
+    "Hd3Link": "https://sports.livnvess.com/live/stream-118206.m3u8?txSecret=2aab124acb7ea4179be33ff234d1183b&txTime=636c5615",
     "Hd3Name": "VN HD",
-    "Hd4Link": "0",
+    "Hd4Link": "https://sports.livnvess.com/live/stream-118206.m3u8?txSecret=2aab124acb7ea4179be33ff234d1183b&txTime=636c5615",
     "Hd4Name": "VN SD",
     "Hd5Link": "0",
     "Hd5Name": "ENG",
@@ -20,7 +20,7 @@
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/800px-EFL_%28Carabao%29_Cup_Logo.svg.png",
     "LeagueName": "League Cup",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
  {
@@ -31,9 +31,9 @@
     "Hd1Name": "CN FHD",
     "Hd2Link": "https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1668044120-0-0-049001cb6a4bc9cc745df540533bc5c8",
     "Hd2Name": "CN SD",
-    "Hd3Link": "0",
+    "Hd3Link": "https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1668044309-0-0-3e8102472b5c8d827466d14661ca650a",
     "Hd3Name": "VN HD",
-    "Hd4Link": "0",
+    "Hd4Link": "https://pullalilive.livnvess.com/live/stream-121256_ld.m3u8?auth_key=1668044309-0-0-7484546d3f731b21a92104ec34830f0f",
     "Hd4Name": "VN SD",
     "Hd5Link": "0",
     "Hd5Name": "ENG",
@@ -44,7 +44,7 @@
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/800px-EFL_%28Carabao%29_Cup_Logo.svg.png",
     "LeagueName": "League Cup",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
  {
@@ -68,7 +68,7 @@
     "LeagueImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/800px-EFL_%28Carabao%29_Cup_Logo.svg.png",
     "LeagueName": "League Cup",
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
     "Time": "2:15 AM"
   },
  {
