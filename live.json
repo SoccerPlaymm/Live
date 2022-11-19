@@ -11,17 +11,17 @@
 
     "Hd1Name": "YouTube HD",
 
-    "Hd2Link": "0",
+    "Hd2Link": "http://vasprodtv.ru:8080/Houngst20001/QE02A8R8WV4XHK3B/82628",
 
-    "Hd2Name": "CN SD",
+    "Hd2Name": "SD",
 
-    "Hd3Link": "0",
+    "Hd3Link": "http://fotlivefotlivefotlivefotlivefotlivefotli.duckdns.org:9000/KMA/thuta/18.m3u8",
 
-    "Hd3Name": "VN HD",
+    "Hd3Name": "HD",
 
-    "Hd4Link": "0",
+    "Hd4Link": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1668884614/ei/JtR4Y-a-JbKD4-EPou-E2AI/ip/37.111.46.21/id/AEUaYjAY4Og.3/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maxh/4320/gcr/mm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHG2nCDSrPdNzk5s4_xl3NdAGDKyKMfCnmGvyBx4JLBoCIQCNQCQTkhwMR9dh-d_IZIs_4HA2j6tMs1AmZguTr2NcGw%3D%3D/file/index.m3u8",
 
-    "Hd4Name": "VN SD",
+    "Hd4Name": "HD2",
 
     "Hd5Link": "0",
 
