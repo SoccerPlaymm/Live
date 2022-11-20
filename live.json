@@ -15,11 +15,11 @@
 
     "Hd2Name": "CN SD",
 
-    "Hd3Link": "0",
+    "Hd3Link": "https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1668975331-0-0-390dcca67863699b6b5703188a76220e",
 
     "Hd3Name": "VN HD",
 
-    "Hd4Link": "0",
+    "Hd4Link": "https://pullalilive.livnvess.com/live/stream-147801_ld.m3u8?auth_key=1668975331-0-0-6550531b88c4a90df26bab4c1ef59495",
 
     "Hd4Name": "VN SD",
 
@@ -41,7 +41,7 @@
 
     "LiveNoti": "ကြည့်ရတာ ထစ်ခြင်း၊ကြည့်မရခြင်း များဖြစ်ပေါ်က ပြန်ထွက်၍ အခြား Quality ကိုရွေးချယ်ကြည့်ရှု ရန်အကြံပြုပါသည်။",
 
-    "LiveUpcoming": "Upcoming",
+    "LiveUpcoming": "Live",
 
     "Time": "9:30 PM"
 
