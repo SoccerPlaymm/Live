@@ -7,11 +7,11 @@
 
     "Date": "November 20",
 
-    "Hd1Link": "0",
+    "Hd1Link": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1668977301-0-0-23d2a7d5378bfc42220261afc23057c6",
 
     "Hd1Name": "CN FHD",
 
-    "Hd2Link": "0",
+    "Hd2Link": "https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1668977301-0-0-2df9ae4070db4dd733151653ed3a8de2",
 
     "Hd2Name": "CN SD",
 
@@ -27,9 +27,9 @@
 
     "Hd5Name": "HD",
 
-    "Hd6Link": "0",
+    "Hd6Link": "https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8",
 
-    "Hd6Name": "ENG",
+    "Hd6Name": "HD2",
 
     "HomeImage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",
 
