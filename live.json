@@ -1,9 +1,9 @@
 [ 
   {
 
-    "AwayImage": "https://blog.wego.com/wp-content/uploads/fifa-world-cup-opening-ceremony-featured.webp",
+    "AwayImage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",
 
-    "AwayName": "QATAR \n2022",
+    "AwayName": "WORLD CUP",
 
     "Date": "November 20",
 
@@ -31,9 +31,9 @@
 
     "Hd6Name": "ENG",
 
-    "HomeImage": "https://blog.wego.com/wp-content/uploads/fifa-world-cup-opening-ceremony-featured.webp",
+    "HomeImage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png",
 
-    "HomeName": "FIFA WORLD CUP",
+    "HomeName": "FIFA",
 
     "Hot": "Hot",
 
